@@ -9,4 +9,4 @@ Mein Charakter ist so so la la. Machmal oder lassmal oder egal oder qual der wah
 * qual
 * wahl
 
-
+> egal qual wahl
